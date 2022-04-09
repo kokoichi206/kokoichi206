@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin, Go and Python (ML)
-
+- 🌱 I’m currently learning Kotlin, Go and Python (ML)」
 - 📫 How to reach me: [@sZfRQcRF6A2kZpJ](https://twitter.com/sZfRQcRF6A2kZpJ)
-
 - ⚡ Fun fact: Learning SOMETHING
+
+#### Links
+- [My gist.github.com](https://gist.github.com/kokoichi206)
+- [hatena blog](https://koko206.hatenablog.com/archive)
+- [Twitter](https://twitter.com/sZfRQcRF6A2kZpJ)
+- [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
 
 <!-- **kokoichi206/kokoichi206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
