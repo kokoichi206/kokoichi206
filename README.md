@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin, Go and Python (ML)」
+- 🌱 I’m currently learning Kotlin, Swift, Python (ML) and Go
 - 📫 How to reach me: [@sZfRQcRF6A2kZpJ](https://twitter.com/sZfRQcRF6A2kZpJ)
 - ⚡ Fun fact: Learning SOMETHING
 
