@@ -9,6 +9,7 @@
 - [hatena blog](https://koko206.hatenablog.com/archive)
 - [Twitter](https://twitter.com/sZfRQcRF6A2kZpJ)
 - [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
+- [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
 
 <!-- **kokoichi206/kokoichi206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
