@@ -8,6 +8,7 @@
 - [My gist.github.com](https://gist.github.com/kokoichi206)
 - [hatena blog](https://koko206.hatenablog.com/archive)
 - [Twitter](https://twitter.com/sZfRQcRF6A2kZpJ)
+- [portfolio](https://kokoichi206.github.io/kokoichi-portfolio/)
 - [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
 - [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
 
