@@ -23,6 +23,8 @@ I’m currently learning Kotlin, Swift, Python (ML) and Go.
 - [GitLab](https://gitlab.com/kokoichi206)
   - Mainly About GitLab CI/CD
 - [hatena blog](https://koko206.hatenablog.com/archive)
+- [AtCoder](https://atcoder.jp/users/kokoichi26)
+- [Kaggle](https://www.kaggle.com/kokoichi)
 
 ### Activities ✨
  
