@@ -10,6 +10,7 @@ I’m currently learning Kotlin, Swift, Python (ML) and Go.
 - [portfolio (ongoing)](https://kokoichi206.github.io/kokoichi-portfolio/)
 - [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
 - [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
+- [Github Actions](https://github.com/marketplace?type=actions&query=kokoichi206+)
 
 ### SNS
 
