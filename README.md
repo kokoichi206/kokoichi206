@@ -1,6 +1,6 @@
 ## `$ whoami`
-Android engineer at OPTiM since 2021/04.  
-I’m currently learning Kotlin, Swift, Python (ML) and Go.
+Web engineer at OPTiM since 2022/07.  
+I’m currently learning Kotlin, Swift, Python (ML) and Golang.
 
 
 
