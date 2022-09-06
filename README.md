@@ -2,11 +2,11 @@
 Web engineer at OPTiM since 2022/07.  
 I’m currently learning Kotlin, Swift, Python (ML) and Golang.
 
-
+- [Work Experience](https://github.com/kokoichi206/kokoichi206/tree/main/aboutme/work_experience.md)
+- [Resume](https://github.com/kokoichi206/kokoichi206/tree/main/aboutme/work_experience.md)
 
 ### Skills
 - [My gist.github.com](https://gist.github.com/kokoichi206)
-  - Resume ([Ja](https://gist.github.com/kokoichi206/b25bd82c5dba2211d22a054a3b63c6ac) / [En](https://gist.github.com/kokoichi206/177e00605c26cbae8586ba2723e7e971))
 - [portfolio (ongoing)](https://kokoichi206.github.io/kokoichi-portfolio/)
 - [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
 - [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
