@@ -28,6 +28,8 @@ jobs:
           sudo apt install -y fonts-ipafont
           fc-cache -fv
           fc-list | grep -i ipa
+      - name: Preprocess markdown files
+        run: bash scripts/preprocess.sh
       - name: Generate pdf files
         run: md-to-pdf ./*.md
       - name: Upload pdf files
