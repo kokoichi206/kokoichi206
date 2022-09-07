@@ -3,7 +3,7 @@ Web engineer at OPTiM since 2022/07.
 I’m currently learning Kotlin, Swift, Python (ML) and Golang.
 
 - [Work Experience](https://github.com/kokoichi206/kokoichi206/tree/main/aboutme/work_experience.md)
-- [Resume](https://github.com/kokoichi206/kokoichi206/tree/main/aboutme/work_experience.md)
+- [Resume](https://github.com/kokoichi206/kokoichi206/tree/main/aboutme/resume.md)
 
 ### Skills
 - [My gist.github.com](https://gist.github.com/kokoichi206)
