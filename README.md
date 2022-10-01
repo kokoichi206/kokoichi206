@@ -1,9 +1,10 @@
 ## `$ whoami`
-Web engineer at OPTiM since 2022/07.  
-I’m currently learning Kotlin, Swift, Python (ML) and Golang.
+Web engineer at OPTiM since 2022/07.
+I'm currently learning Kotlin, Swift, Python (ML) and Golang.
 
-- [Work Experience](https://github.com/kokoichi206/kokoichi206/tree/main/aboutme/work_experience.md)
-- [Resume](https://github.com/kokoichi206/kokoichi206/tree/main/aboutme/resume.md)
+- Work Experience ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
+- [Resume (ja)](./aboutme/resume.md)
+- [My RoadMap](./aboutme/)
 
 ### Skills
 - [My gist.github.com](https://gist.github.com/kokoichi206)
@@ -28,7 +29,7 @@ I’m currently learning Kotlin, Swift, Python (ML) and Golang.
 - [Kaggle](https://www.kaggle.com/kokoichi)
 
 ### Activities ✨
- 
+
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
