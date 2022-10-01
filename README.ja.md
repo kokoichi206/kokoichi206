@@ -1,14 +1,16 @@
 ## `$ whoami`
-Web engineer at OPTiM since 2022/07.  
-I'm currently learning Kotlin, Swift, Python (ML) and Golang.
 
-- Work Experience ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
-- [Resume (ja)](./aboutme/resume.md)
-- [My RoadMap](./aboutme/)
+2022/07 からOPTiMで Web エンジニアをしています。  
+現在、Kotlin, Swift, Python (ML), Golang に興味があり勉強をしています。
 
-### Skills
-- [My gist.github.com](https://gist.github.com/kokoichi206)
-- [portfolio (ongoing)](https://kokoichi206.github.io/kokoichi-portfolio/)
+- 職務経歴書 ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
+- [履歴書](./aboutme/resume.md)
+- [私についての補足情報](./aboutme/)
+
+### スキル
+
+- [GitHub Gist](https://gist.github.com/kokoichi206)
+- [ポートフォリオページ (作成中)](https://kokoichi206.github.io/kokoichi-portfolio/)
 - [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
 - [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
 - [Github Actions](https://github.com/marketplace?type=actions&query=kokoichi206+)
@@ -17,22 +19,19 @@ I'm currently learning Kotlin, Swift, Python (ML) and Golang.
 
 - [Twitter](https://twitter.com/sZfRQcRF6A2kZpJ)
 
-
-
-
-### Other Links
+### その他の活動
 
 - [GitLab](https://gitlab.com/kokoichi206)
-  - Mainly About GitLab CI/CD
-- [hatena blog](https://koko206.hatenablog.com/archive)
+  - 主に GitLab CI/CD について
+- [はてなブログ](https://koko206.hatenablog.com/archive)
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
 
-### Activities ✨
+### GitHub の活動
 
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
-English | [日本語](./README.ja.md)
+[English](./README.md) | 日本語
