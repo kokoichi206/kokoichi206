@@ -1,4 +1,6 @@
-[English](./README.md) | 日本語
+<p align="right"> 
+    <a href="./README.md">English</a> | 日本語
+</p>
 
 ## 自己紹介
 

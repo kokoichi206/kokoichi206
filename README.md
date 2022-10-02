@@ -1,4 +1,9 @@
+<p align="right"> 
+    English | <a href="./README.ja.md">日本語</a>
+</p>
+ 
 ## `$ whoami`
+
 Web engineer at OPTiM since 2022/07.  
 I'm currently learning Kotlin, Swift, Python (ML) and Golang.
 
@@ -7,6 +12,7 @@ I'm currently learning Kotlin, Swift, Python (ML) and Golang.
 - [My RoadMap](./aboutme/)
 
 ### Skills
+
 - [My gist.github.com](https://gist.github.com/kokoichi206)
 - [portfolio (ongoing)](https://kokoichi206.github.io/kokoichi-portfolio/)
 - [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
@@ -33,6 +39,3 @@ I'm currently learning Kotlin, Swift, Python (ML) and Golang.
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
----
-English | [日本語](./README.ja.md)

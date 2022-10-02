@@ -1,4 +1,6 @@
-English | [日本語](./README.ja.md)
+<p align="right"> 
+    English | <a href="./README.ja.md">日本語</a>
+</p>
 
 ## About Me
 
@@ -15,3 +17,4 @@ English | [日本語](./README.ja.md)
 
 - All art is quite useless.
 - Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+- Done is better than perfect.
