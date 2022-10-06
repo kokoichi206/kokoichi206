@@ -31,6 +31,10 @@
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
 
+### 訪問者数
+
+[![](https://kokoichi0206.mydns.jp/cgi-bin/counter)](https://github.com/kokoichi206/cgi/issues/3)
+
 ### GitHub の活動
 
 [![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

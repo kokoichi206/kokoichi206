@@ -1,7 +1,7 @@
 <p align="right"> 
     English | <a href="./README.ja.md">日本語</a>
 </p>
- 
+
 ## `$ whoami`
 
 Web engineer at OPTiM since 2022/07.  
@@ -33,6 +33,10 @@ I'm currently learning Kotlin, Swift, Python (ML) and Golang.
 - [hatena blog](https://koko206.hatenablog.com/archive)
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
+
+### Visitor Counter
+
+[![](https://kokoichi0206.mydns.jp/cgi-bin/counter)](https://github.com/kokoichi206/cgi/issues/3)
 
 ### Activities ✨
 
