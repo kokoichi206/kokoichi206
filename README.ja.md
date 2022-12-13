@@ -4,14 +4,25 @@
 
 ## `$ whoami`
 
-2022/07 からOPTiMで Web エンジニアをしています。  
-現在、Kotlin, Swift, Python (ML), Golang に興味があり勉強をしています。
+2021/04 からOPTiMで Web エンジニアをしています。  
+現在、Kotlin, Python (ML), Golang に興味があり勉強をしています。
 
 - 職務経歴書 ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
 - [履歴書](./aboutme/resume.md)
 - [私についての補足情報](./aboutme/)
 
 ### スキル
+
+**Advanced:**  
+育成中。
+
+**Intermediate:**  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=kotlin,androidstudio,go,python,bash,git,github,githubactions" />
+
+**Beginner:**  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,flutter,ts,js,html,css,react,vue,firebase,rails,linux,aws,jenkins" />
+
+### Links
 
 - [GitHub Gist](https://gist.github.com/kokoichi206)
 - [ポートフォリオページ (作成中)](https://kokoichi206.github.io/kokoichi-portfolio/)

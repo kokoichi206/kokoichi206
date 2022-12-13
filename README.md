@@ -4,14 +4,25 @@
 
 ## `$ whoami`
 
-Web engineer at OPTiM since 2022/07.  
-I'm currently learning Kotlin, Swift, Python (ML) and Golang.
+Web engineer at OPTiM since 2021/04.  
+I'm currently learning Kotlin, Python (ML) and Golang.
 
 - Work Experience ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
 - [Resume (ja)](./aboutme/resume.md)
 - [My RoadMap](./aboutme/)
 
 ### Skills
+
+**Advanced:**  
+Now I'm searching...
+
+**Intermediate:**  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=kotlin,androidstudio,go,python,bash,git,github,githubactions" />
+
+**Beginner:**  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,flutter,ts,js,html,css,vue,firebase,rails,linux,aws,jenkins" />
+
+### Links
 
 - [My gist.github.com](https://gist.github.com/kokoichi206)
 - [portfolio (ongoing)](https://kokoichi206.github.io/kokoichi-portfolio/)
