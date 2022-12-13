@@ -43,9 +43,9 @@
 
 ## 自己PR
 
-日々学習を心がけ、常に技術をキャッチアップする好奇心があります。
+日々学習を心がけ、常に技術をキャッチアップする好奇心があります。  
 また、開発言語やシステム開発のような一定領域だけでなく、網羅的に学習ができるよう、自主的に応用情報などの資格勉強を行うなどの取り組みをしています。
 
-※自己学習・アウトプット
-GitHub: https://github.com/kokoichi206
-はてなブログ: https://koko206.hatenablog.com/archive
+※自己学習・アウトプット  
+GitHub: https://github.com/kokoichi206  
+はてなブログ: https://koko206.hatenablog.com/archive  
