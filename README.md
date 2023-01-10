@@ -5,7 +5,9 @@
 ## `$ whoami`
 
 Web engineer at OPTiM since 2021/04.  
-I'm currently learning Kotlin, Python (ML) and Golang.
+I'm currently learning
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cosmic&size=22&duration=1200&pause=100&color=25AC3C&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Kotlin;Golang;Python+(ML))](https://git.io/typing-svg)
 
 - Work Experience ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
 - [Resume (ja)](./aboutme/resume.md)
