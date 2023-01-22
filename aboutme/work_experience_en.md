@@ -41,6 +41,7 @@ IT Engineer from 2021.
 
 ## Certificates
 
+- 01/2023, Japan Statistical Society Certificate Grade Pre-1
 - 10/2022, Applied Information Technology Engineer Examination, IPA
 - 03/2022, AWS Certified Solutions Architect - Associate, AWS
 - 09/2015, Driver's license, Driving school
