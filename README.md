@@ -27,25 +27,23 @@ Now I'm searching...
 ### Links
 
 - [My gist.github.com](https://gist.github.com/kokoichi206)
-- [portfolio (ongoing)](https://kokoichi206.github.io/kokoichi-portfolio/)
-- [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
-- [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
-- [Github Actions](https://github.com/marketplace?type=actions&query=kokoichi206+)
+- [hatena blog](https://koko206.hatenablog.com/archive)
 
 ### SNS
 
 - [Twitter](https://twitter.com/sZfRQcRF6A2kZpJ)
 
-
-
-
 ### Other Links
 
+- [portfolio (ongoing)](https://kokoichi206.github.io/kokoichi-portfolio/)
+- [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
+- [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
+- [Github Actions](https://github.com/marketplace?type=actions&query=kokoichi206+)
 - [GitLab](https://gitlab.com/kokoichi206)
   - Mainly About GitLab CI/CD
-- [hatena blog](https://koko206.hatenablog.com/archive)
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
+- [Zenn](https://zenn.dev/kokoichi206)
 
 ### Visitor Counter
 

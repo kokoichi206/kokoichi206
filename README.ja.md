@@ -25,22 +25,23 @@
 ### Links
 
 - [GitHub Gist](https://gist.github.com/kokoichi206)
-- [ポートフォリオページ (作成中)](https://kokoichi206.github.io/kokoichi-portfolio/)
-- [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
-- [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
-- [Github Actions](https://github.com/marketplace?type=actions&query=kokoichi206+)
+- [はてなブログ](https://koko206.hatenablog.com/archive)
 
 ### SNS
 
 - [Twitter](https://twitter.com/sZfRQcRF6A2kZpJ)
 
-### その他の活動
+### その他の活動（Not so active）
 
+- [ポートフォリオページ (作成中)](https://kokoichi206.github.io/kokoichi-portfolio/)
+- [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
+- [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
+- [Github Actions](https://github.com/marketplace?type=actions&query=kokoichi206+)
 - [GitLab](https://gitlab.com/kokoichi206)
   - 主に GitLab CI/CD について
-- [はてなブログ](https://koko206.hatenablog.com/archive)
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
+- [Zenn](https://zenn.dev/kokoichi206)
 
 ### 訪問者数
 
