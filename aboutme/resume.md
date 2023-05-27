@@ -58,3 +58,5 @@ chotto.himitu@gmail.com
 |  |  | <div style="text-align: right;">以上</div> |
 
 ## 備考
+
+- [credly](https://www.credly.com/users/takahiro-tominaga.5cd0b374)
