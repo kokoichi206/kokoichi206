@@ -55,6 +55,7 @@ chotto.himitu@gmail.com
 | 2022 | 3 | [AWS ソリューションアーキテクトアソシエイト(SAA)](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) |
 | 2022 | 10 | [IPA 応用情報技術者試験](https://www.ipa.go.jp/shiken/kubun/ap.html) |
 | 2023 | 1 | [JSSC 統計検定準１級](https://www.toukei-kentei.jp/exam/grade1semi/) |
+| 2023 | 4 | [IPA ネットワークスペシャリスト試験](https://www.ipa.go.jp/shiken/kubun/nw.html) |
 |  |  | <div style="text-align: right;">以上</div> |
 
 ## 備考

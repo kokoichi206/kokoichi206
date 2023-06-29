@@ -41,6 +41,7 @@ IT Engineer from 2021.
 
 ## Certificates
 
+- 04/2023, Network Specialist Examination, IPA
 - 01/2023, Japan Statistical Society Certificate Grade Pre-1
 - 10/2022, Applied Information Technology Engineer Examination, IPA
 - 03/2022, AWS Certified Solutions Architect - Associate, AWS
