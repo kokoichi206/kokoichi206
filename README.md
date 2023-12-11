@@ -26,14 +26,12 @@ Now I'm searching...
 
 ### Links
 
-- [My gist.github.com](https://gist.github.com/kokoichi206)
 - [hatena blog](https://koko206.hatenablog.com/archive)
+- [LAPRAS](https://lapras.com/public/SYU7UNS)
+- [X (Twitter)](https://twitter.com/sZfRQcRF6A2kZpJ)
+- [My gist.github.com](https://gist.github.com/kokoichi206)
 
-### SNS
-
-- [Twitter](https://twitter.com/sZfRQcRF6A2kZpJ)
-
-### Other Links
+#### Not So Active...
 
 - [portfolio (ongoing)](https://kokoichi206.github.io/kokoichi-portfolio/)
 - [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
@@ -44,6 +42,7 @@ Now I'm searching...
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
 - [Zenn](https://zenn.dev/kokoichi206)
+- [Qiita](https://img.shields.io/badge/Qiita-55c500.svg?&style=flat-square&logo=qiita&logoColor=white)
 
 ### Visitor Counter
 
