@@ -19,16 +19,16 @@ I'm currently learning
 Now I'm searching...
 
 **Intermediate:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=kotlin,androidstudio,go,python,bash,git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=kotlin,androidstudio,go,aws,python,bash,git,github,githubactions" />
 
 **Beginner:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,flutter,ts,js,html,css,vue,firebase,rails,linux,aws,jenkins" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,flutter,ts,js,html,css,vue,firebase,rails,linux,terraform,jenkins" />
 
 ### Links
 
 - [hatena blog](https://koko206.hatenablog.com/archive)
 - [LAPRAS](https://lapras.com/public/SYU7UNS)
-- [X (Twitter)](https://twitter.com/sZfRQcRF6A2kZpJ)
+- [X (Twitter)](https://twitter.com/kokoichi0206)
 - [My gist.github.com](https://gist.github.com/kokoichi206)
 
 #### Not So Active...

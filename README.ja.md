@@ -17,10 +17,10 @@
 育成中。
 
 **Intermediate:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=kotlin,androidstudio,go,python,bash,git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=kotlin,androidstudio,go,aws,python,bash,git,github,githubactions" />
 
 **Beginner:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,flutter,ts,js,html,css,react,vue,firebase,rails,linux,aws,jenkins" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,flutter,ts,js,html,css,vue,firebase,rails,linux,terraform,jenkins" />
 
 ### Links
 
@@ -29,7 +29,7 @@
 
 ### SNS
 
-- [Twitter](https://twitter.com/sZfRQcRF6A2kZpJ)
+- [X (Twitter)](https://twitter.com/kokoichi0206)
 
 ### その他の活動（Not so active）
 
