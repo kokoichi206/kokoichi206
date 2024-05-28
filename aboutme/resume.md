@@ -43,6 +43,7 @@ chotto.himitu@gmail.com
 |  |  |  |
 |  |  | <center>職歴</center> |
 | 2021 | 4 | 株式会社 OPTiM 入社 |
+| 2024 | 5 | Repro 株式会社入社 |
 |  |  | 現在に至る |
 
 | 年 | 月 | <center>免許・資格</center> |
