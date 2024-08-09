@@ -59,6 +59,10 @@
 
 ![](./clifton-strengths.png)
 
+### [タイプ診断](http://test.jp/survey/7091/case-finish/3385688df454798fe8e49ff8e9b95eec/?q=)
+
+![](./type.png)
+
 ### グッドポイント診断（マイナビ）
 
 - 独創性
