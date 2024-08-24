@@ -7,7 +7,7 @@
 Web engineer at Repro since 2024/05.  
 I'm currently learning
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cosmic&size=22&duration=1200&pause=100&color=25AC3C&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Golang;Kotlin+(Android);Python+(ML))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cosmic&size=22&duration=1200&pause=100&color=25AC3C&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Web+App+Development;Computer+Science)](https://git.io/typing-svg)
 
 - Work Experience ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
 - [Resume (ja)](./aboutme/resume.md)
@@ -19,10 +19,10 @@ I'm currently learning
 Now I'm searching...
 
 **Intermediate:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=kotlin,androidstudio,go,aws,python,bash,git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,aws,gcp,elasticsearch,kotlin,androidstudio,python,bash,git,github,githubactions" />
 
 **Beginner:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,flutter,ts,js,html,css,vue,firebase,rails,linux,terraform,jenkins" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,nextjs,react,vue,firebase,swift,flutter,rails,linux,terraform,jenkins" />
 
 ### Links
 
