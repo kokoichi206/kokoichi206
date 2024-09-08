@@ -11,10 +11,35 @@
 
 - English skills
 - System design
-- Log analysis
+- Operational aspects (e.g., log analysis)
+
+## Technical Interests
+
+- Architecture
+- Jetpack Compose (Android)
+- Cross-platform development (like KMM)
+- Go and its related technologies
+  - Microservice architecture
+
+### Want to Try Someday
+
+- Understanding Low-level concepts
+  - Building an operating system from scratch
+- Specializing in a specific field
+- Understanding database management system
+
+## Thoughts
+
+- I wanna keep trying new things
 
 ### Motto
 
 - All art is quite useless.
 - Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 - Done is better than perfect.
+
+## Personality and Traits
+
+### CliftonStrengths 34
+
+![](./clifton-strengths.png)

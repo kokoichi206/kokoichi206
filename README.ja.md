@@ -4,12 +4,12 @@
 
 ## `$ whoami`
 
-2021/04 からOPTiMで Web エンジニアをしています。  
-現在、Kotlin, Python (ML), Golang に興味があり勉強をしています。
+2021/04 から Repro で Web エンジニアをしています。  
+現在, Golang, Infra (Architecture), Android に興味があり勉強をしています。
 
 - 職務経歴書 ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
 - [履歴書](./aboutme/resume.md)
-- [私についての補足情報](./aboutme/)
+- [私についての補足情報](./aboutme/README.ja.md)
 
 ### スキル
 
@@ -42,10 +42,6 @@
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
 - [Zenn](https://zenn.dev/kokoichi206)
-
-### 訪問者数
-
-[![](https://kokoichi0206.mydns.jp/cgi-bin/counter)](https://github.com/kokoichi206/cgi/issues/3)
 
 ### GitHub の活動
 

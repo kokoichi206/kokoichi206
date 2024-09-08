@@ -11,7 +11,7 @@ I'm currently learning
 
 - Work Experience ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
 - [Resume (ja)](./aboutme/resume.md)
-- [My RoadMap](./aboutme/)
+- [about me](./aboutme/)
 
 ### Skills
 
@@ -43,10 +43,6 @@ Now I'm searching...
 - [Kaggle](https://www.kaggle.com/kokoichi)
 - [Zenn](https://zenn.dev/kokoichi206)
 - [Qiita](https://img.shields.io/badge/Qiita-55c500.svg?&style=flat-square&logo=qiita&logoColor=white)
-
-### Visitor Counter
-
-[![](https://kokoichi0206.mydns.jp/cgi-bin/counter)](https://github.com/kokoichi206/cgi/issues/3)
 
 ### Activities ✨
 
