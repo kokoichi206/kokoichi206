@@ -4,7 +4,7 @@
 
 ## `$ whoami`
 
-2021/04 から Repro で Web エンジニアをしています。  
+2025/04 から ? でエンジニアをしています。  
 現在, Golang, Infra (Architecture), Android に興味があり勉強をしています。
 
 - 職務経歴書 ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))

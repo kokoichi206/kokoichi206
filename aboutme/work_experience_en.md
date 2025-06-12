@@ -9,7 +9,7 @@ IT Engineer from 2021.
 
 ## Work experience
 
-- **Repro in Japan:** 05/2024 - Present. Web Engineer of Marketing product.
+- **Repro in Japan:** 05/2024 - 03/2025. Web Engineer of Marketing product.
 - **OPTiM in Japan:** 04/2021 - 04/2024. Android Engineer of MDM product. Learned basic software engineering skills (including how to work in a team). Web Engineer of IoT product (medical related), using Vue2, Golang, Postgresql and k8s.
 
 ## Education
@@ -42,6 +42,7 @@ IT Engineer from 2021.
 
 ## Certificates
 
+- 12/2024, Google Professional Cloud Architect
 - 10/2023, Database Specialist Examination, IPA
 - 04/2023, Network Specialist Examination, IPA
 - 01/2023, Japan Statistical Society Certificate Grade Pre-1

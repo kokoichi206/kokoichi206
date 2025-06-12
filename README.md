@@ -4,7 +4,7 @@
 
 ## `$ whoami`
 
-Web engineer at Repro since 2024/05.  
+Web engineer at ? since 2025/04.  
 I'm currently learning
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cosmic&size=22&duration=1200&pause=100&color=25AC3C&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Web+App+Development;Computer+Science)](https://git.io/typing-svg)

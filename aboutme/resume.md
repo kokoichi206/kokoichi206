@@ -44,6 +44,7 @@ chotto.himitu@gmail.com
 |  |  | <center>職歴</center> |
 | 2021 | 4 | 株式会社 OPTiM 入社 |
 | 2024 | 5 | Repro 株式会社入社 |
+| 2025 | 4 | ? |
 |  |  | 現在に至る |
 
 | 年 | 月 | <center>免許・資格</center> |
@@ -55,6 +56,7 @@ chotto.himitu@gmail.com
 | 2023 | 1 | [JSSC 統計検定準１級](https://www.toukei-kentei.jp/exam/grade1semi/) |
 | 2023 | 4 | [IPA ネットワークスペシャリスト試験](https://www.ipa.go.jp/shiken/kubun/nw.html) |
 | 2023 | 10 | [IPA データベーススペシャリスト試験](https://www.ipa.go.jp/shiken/kubun/db.html) |
+| 2024 | 12 | Google Professional Cloud Architect |
 |  |  | <div style="text-align: right;">以上</div> |
 
 ## 備考
