@@ -59,6 +59,12 @@
 
 ![](./clifton-strengths.png)
 
+### MBTI: 16Personalities (2025/12/09)
+
+[ENTJ-A](https://www.16personalities.com/ja/プロフィール/d1d7ad3a9b2c2)
+
+![](./mbti.png)
+
 ### [タイプ診断](http://test.jp/survey/7091/case-finish/3385688df454798fe8e49ff8e9b95eec/?q=)
 
 ![](./type.png)
