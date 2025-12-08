@@ -33,13 +33,14 @@
 |Python|基本的なプログラミングが可能|
 |Java(Android)|基本的なプログラミングが可能|
 |Kotlin(Android)|基本的なプログラミングが可能|
+|Typescript|基本的なプログラミングが可能|
 |JavaScript|基本的なプログラミングが可能|
+|Nextjs|基本的なプログラミングが可能|
+|Terraform|基本的な操作が可能|
 |SQL|基本的な操作が可能|
 |Swift|知見あり|
 |Vue|知見あり|
-|Terraform|知見あり|
 |ML (Python)|知見あり|
-|Typescript|知見あり|
 
 ## 資格等
 
