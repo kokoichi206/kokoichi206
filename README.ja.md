@@ -24,6 +24,7 @@
 
 ### Links
 
+- [Zenn](https://zenn.dev/kokoichi206)
 - [GitHub Gist](https://gist.github.com/kokoichi206)
 - [はてなブログ](https://koko206.hatenablog.com/archive)
 
@@ -41,7 +42,6 @@
   - 主に GitLab CI/CD について
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
-- [Zenn](https://zenn.dev/kokoichi206)
 
 ### GitHub の活動
 

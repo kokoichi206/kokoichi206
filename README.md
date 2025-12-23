@@ -26,6 +26,7 @@ Now I'm searching...
 
 ### Links
 
+- [Zenn](https://zenn.dev/kokoichi206)
 - [hatena blog](https://koko206.hatenablog.com/archive)
 - [LAPRAS](https://lapras.com/public/SYU7UNS)
 - [X (Twitter)](https://twitter.com/kokoichi0206)
@@ -41,7 +42,6 @@ Now I'm searching...
   - Mainly About GitLab CI/CD
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
-- [Zenn](https://zenn.dev/kokoichi206)
 - [Qiita](https://img.shields.io/badge/Qiita-55c500.svg?&style=flat-square&logo=qiita&logoColor=white)
 
 ### Activities ✨
