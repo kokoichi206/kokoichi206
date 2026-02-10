@@ -5,28 +5,18 @@
 ## `$ whoami`
 
 2025/04 から ? でエンジニアをしています。  
-現在, Golang, Infra (Architecture), Android に興味があり勉強をしています。
+Web 開発と開発者ツールに興味があります。
 
 - 職務経歴書 ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
 - [履歴書](./aboutme/resume.md)
 - [私についての補足情報](./aboutme/README.ja.md)
-
-### スキル
-
-**Advanced:**  
-育成中。
-
-**Intermediate:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=kotlin,androidstudio,go,aws,python,bash,git,github,githubactions" />
-
-**Beginner:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=swift,flutter,ts,js,html,css,vue,firebase,rails,linux,terraform,jenkins" />
 
 ### Links
 
 - [Zenn](https://zenn.dev/kokoichi206)
 - [GitHub Gist](https://gist.github.com/kokoichi206)
 - [はてなブログ](https://koko206.hatenablog.com/archive)
+- [LAPRAS](https://lapras.com/public/SYU7UNS)
 
 ### SNS
 
