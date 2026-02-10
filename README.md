@@ -5,24 +5,11 @@
 ## `$ whoami`
 
 Web engineer at ? since 2025/04.  
-I'm currently learning
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cosmic&size=22&duration=1200&pause=100&color=25AC3C&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Web+App+Development;Computer+Science)](https://git.io/typing-svg)
+Interested in Web Development and Developer Tooling.
 
 - Work Experience ([en](./aboutme/work_experience_en.md) / [ja](./aboutme/work_experience.md))
 - [Resume (ja)](./aboutme/resume.md)
 - [about me](./aboutme/)
-
-### Skills
-
-**Advanced:**  
-Now I'm searching...
-
-**Intermediate:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,aws,gcp,elasticsearch,kotlin,androidstudio,python,bash,git,github,githubactions" />
-
-**Beginner:**  
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,nextjs,react,vue,firebase,swift,flutter,rails,linux,terraform,jenkins" />
 
 ### Links
 
@@ -42,7 +29,7 @@ Now I'm searching...
   - Mainly About GitLab CI/CD
 - [AtCoder](https://atcoder.jp/users/kokoichi26)
 - [Kaggle](https://www.kaggle.com/kokoichi)
-- [Qiita](https://img.shields.io/badge/Qiita-55c500.svg?&style=flat-square&logo=qiita&logoColor=white)
+- [Qiita](https://qiita.com/kokoichi26)
 
 ### Activities ✨
 
