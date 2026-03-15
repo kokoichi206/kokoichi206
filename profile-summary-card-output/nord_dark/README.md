@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kokoichi206/kokoichi206/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
+```
+
+    
