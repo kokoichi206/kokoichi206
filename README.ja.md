@@ -24,7 +24,7 @@ Web 開発と開発者ツールに興味があります。
 
 ### その他の活動（Not so active）
 
-- [ポートフォリオページ (作成中)](https://kokoichi206.github.io/kokoichi-portfolio/)
+- [ポートフォリオ](https://www.kokoichi0206.work/)
 - [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
 - [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
 - [Github Actions](https://github.com/marketplace?type=actions&query=kokoichi206+)
