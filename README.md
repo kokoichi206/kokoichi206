@@ -18,10 +18,10 @@ Interested in Web Development and Developer Tooling.
 - [LAPRAS](https://lapras.com/public/SYU7UNS)
 - [X (Twitter)](https://twitter.com/kokoichi0206)
 - [My gist.github.com](https://gist.github.com/kokoichi206)
+- [portfolio (ongoing)](https://www.kokoichi0206.work/)
 
 #### Not So Active...
 
-- [portfolio (ongoing)](https://kokoichi206.github.io/kokoichi-portfolio/)
 - [Google Play](https://play.google.com/store/apps/developer?id=Takahiro+Tominaga)
 - [App Store](https://apps.apple.com/us/developer/takahiro-tominaga/id1619527887)
 - [Github Actions](https://github.com/marketplace?type=actions&query=kokoichi206+)
